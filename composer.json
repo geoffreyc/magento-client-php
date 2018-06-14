@@ -16,13 +16,13 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/geoffreyc/magento-client-php"
+            "url": "https://github.com/geoffreyc/fxmlrpc"
         }
     ],
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3.0",
-        "lstrojny/fxmlrpc": "master"
+        "lstrojny/fxmlrpc": "dev-master"
     },
     "require-dev": {
         "pdepend/pdepend": "~1.0",
