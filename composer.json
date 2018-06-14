@@ -1,5 +1,5 @@
 {
-    "name": "cpliakas/magento-client-php",
+    "name": "geoffreyc/magento-client-php",
     "type": "library",
     "description": "A PHP client library that consumes Magento's REST and XMLRPC APIs",
     "homepage": "https://github.com/cpliakas/magento-client-php",
@@ -22,7 +22,7 @@
     "require": {
         "php": ">=5.3.3",
         "guzzlehttp/guzzle": "~6.3.3",
-        "lstrojny/fxmlrpc": "dev-master"
+        "geoffreyc/fxmlrpc": "dev-master"
     },
     "require-dev": {
         "pdepend/pdepend": "~1.0",
