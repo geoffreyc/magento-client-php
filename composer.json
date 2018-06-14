@@ -13,10 +13,16 @@
     "support": {
         "issues": "https://github.com/cpliakas/magento-client-php/issues"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/geoffreyc/magento-client-php"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3.0",
-        "lstrojny/fxmlrpc": ">=0.8,<0.9"
+        "lstrojny/fxmlrpc": "master"
     },
     "require-dev": {
         "pdepend/pdepend": "~1.0",
